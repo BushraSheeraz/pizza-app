@@ -1,4 +1,4 @@
-## Live Link: https://bushrasheeraz.github.io/home
+## Live Link: https://bushrasheeraz.github.io/pizza-app/
   
 # Getting Started with Create React App
 
